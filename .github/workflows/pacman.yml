@@ -1,0 +1,27 @@
+name: Generate pacman animation
+
+on:
+  schedule: # executa a cada 12 horas
+    - cron: "* */12 * * *"
+  workflow_dispatch: # permite executar manualmente
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write # Permissão necessária para fazer o commit da imagem
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: generate pacman-contribution-graph.svg
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          svg_file_path: pacman-contribution-graph.svg # Salva a imagem na raiz
+          push_changes: "true" # Faz o commit da imagem gerada
+          commit_message: "chore: update pacman contribution graph"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
