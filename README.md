@@ -33,6 +33,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
 </picture>
 
-![Animação Pacman das minhas contribuições](pacman-contribution-graph.svg)
+![Animação Pacman](https://raw.githubusercontent.com/PedroPMFreitas/PedroPMFreitas/output/pacman-contribution-graph.svg)
 
 ###
