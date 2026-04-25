@@ -20,6 +20,6 @@
 
 ###
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroPMFreitas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PedroPMFreitas&theme=dracula&hide_border=false&border_radius=5)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroPMFreitas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox_light&hide_border=false) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PedroPMFreitas&theme=gruvbox_light&hide_border=false&border_radius=5)
 
 
