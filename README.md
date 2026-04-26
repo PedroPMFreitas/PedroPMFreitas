@@ -19,7 +19,11 @@
 </div>
 
 ###
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroPMFreitas&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox_light&hide_border=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PedroPMFreitas&theme=gruvbox_light&hide_border=true&border_radius=5)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroPMFreitas&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox_light&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPMFreitas&layout=compact&theme=gruvbox_light" alt="Top Langs" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PedroPMFreitas&theme=gruvbox_light&hide_border=true&border_radius=5" alt="GitHub Streak" />
+</p>
 
