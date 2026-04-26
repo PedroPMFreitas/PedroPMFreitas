@@ -24,6 +24,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPMFreitas&layout=compact&theme=gruvbox_light" alt="Top Langs" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PedroPMFreitas&theme=gruvbox_light&hide_border=true&border_radius=5" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PedroPMFreitas&theme=gruvbox_light&hide_border=true&border_radius=6" alt="GitHub Streak" />
 </p>
 
