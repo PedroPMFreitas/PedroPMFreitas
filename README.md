@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroPMFreitas&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&hide_border=true&rank_icon=github" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroPMFreitas&hide_title=true&show_icons=true&disable_animations=false&theme=gruvbox&hide_border=true&rank_icon=github" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPMFreitas&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages" height="180" />
 </p>
 
