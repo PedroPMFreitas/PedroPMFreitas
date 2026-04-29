@@ -1,11 +1,12 @@
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroPMFreitas&hide_title=true&show_icons=true&disable_animations=false&theme=gruvbox&hide_border=true&rank_icon=github" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPMFreitas&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages" height="180" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=PedroPMFreitas&theme=gruvbox&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPMFreitas&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroPMFreitas&hide_title=true&show_icons=true&disable_animations=false&theme=gruvbox&hide_border=true&rank_icon=github" alt="GitHub Stats" height="180" />
 </p>
 
 <p align="center">
