@@ -3,8 +3,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=PedroPMFreitas&theme=gruvbox&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
-
-
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PedroPMFreitas&layout=compact&theme=gruvbox&hide_border=true" height="180" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PedroPMFreitas&show_icons=true&theme=gruvbox&hide_border=true" height="180" />
