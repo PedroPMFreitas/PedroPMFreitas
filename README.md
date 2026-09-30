@@ -1,12 +1,11 @@
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PedroPMFreitas&theme=gruvbox&hide_border=true&border_radius=6&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
+<div align="center">
+  <img src="https://perfilgithub-lovat.vercel.app/api/top-langs?username=PedroPMFreitas&theme=gruvbox&hide_border=true&border_radius=6&layout=compact" height="195" />
+  <img src="https://perfilgithub-lovat.vercel.app/api/streak?username=PedroPMFreitas&theme=gruvbox&hide_border=true&border_radius=6" alt="GitHub Streak" />
+</div>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroPMFreitas&theme=gruvbox&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph - Last Year" />
+  <img src="https://perfilgithub-lovat.vercel.app/api/graph?username=PedroPMFreitas&theme=gruvbox&hide_border=true&border_radius=6&custom_title=Contribution%20Graph" alt="Contribution Graph - Last Year" />
 </p>
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
   <img width="15" />
