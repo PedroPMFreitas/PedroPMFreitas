@@ -1,10 +1,10 @@
-</p>
 <div align="center">
+  <img src="https://perfilgithub-lovat.vercel.app/api/streak?username=PedroPMFreitas&theme=gruvbox&hide_border=true&border_radius=6" height="195" />
   <img src="https://perfilgithub-lovat.vercel.app/api/top-langs?username=PedroPMFreitas&theme=gruvbox&hide_border=true&border_radius=6&layout=compact" height="195" />
-  <img src="https://perfilgithub-lovat.vercel.app/api/streak?username=PedroPMFreitas&theme=gruvbox&hide_border=true&border_radius=6" alt="GitHub Streak" />
 </div>
+<br/>
 <p align="center">
-  <img src="https://perfilgithub-lovat.vercel.app/api/graph?username=PedroPMFreitas&theme=gruvbox&hide_border=true&border_radius=6&custom_title=Contribution%20Graph" alt="Contribution Graph - Last Year" />
+  <img src="https://perfilgithub-lovat.vercel.app/api/graph?username=PedroPMFreitas&theme=gruvbox&hide_border=true&border_radius=6&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </p>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
